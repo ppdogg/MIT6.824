@@ -1,0 +1,6 @@
+{
+    "cmake.configureOnOpen": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "go.testTimeout": "600s"
+}

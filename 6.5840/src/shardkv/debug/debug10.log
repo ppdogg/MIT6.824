@@ -1,0 +1,4 @@
+Test: snapshots, join, and leave ...
+  ... Passed
+PASS
+ok  	6.5840/shardkv	13.024s

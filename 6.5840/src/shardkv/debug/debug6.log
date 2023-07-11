@@ -1,0 +1,3 @@
+Test: snapshots, join, and leave ...
+signal: interrupt
+FAIL	6.5840/shardkv	0.313s
